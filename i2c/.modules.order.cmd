@@ -1,0 +1,1 @@
+cmd_/home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/modules.order := {   echo /home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/tiny_i2c_chip.ko; :; } | awk '!x[$$0]++' - > /home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/modules.order

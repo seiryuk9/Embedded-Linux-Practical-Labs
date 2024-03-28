@@ -1,0 +1,1 @@
+cmd_/home/phuongdnguyen/data/linux_driver_practical_labs/labs/dt_gpio/modules.order := {   echo /home/phuongdnguyen/data/linux_driver_practical_labs/labs/dt_gpio/dt_gpio.ko; :; } | awk '!x[$$0]++' - > /home/phuongdnguyen/data/linux_driver_practical_labs/labs/dt_gpio/modules.order

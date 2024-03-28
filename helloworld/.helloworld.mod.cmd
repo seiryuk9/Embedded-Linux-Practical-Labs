@@ -1,0 +1,1 @@
+cmd_/home/phuongdnguyen/data/linux_driver_practical_labs/labs/helloworld/helloworld.mod := { echo  /home/phuongdnguyen/data/linux_driver_practical_labs/labs/helloworld/helloworld.o;  echo; } > /home/phuongdnguyen/data/linux_driver_practical_labs/labs/helloworld/helloworld.mod

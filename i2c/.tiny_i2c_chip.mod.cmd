@@ -1,0 +1,1 @@
+cmd_/home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/tiny_i2c_chip.mod := { echo  /home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/tiny_i2c_chip.o;  echo; } > /home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/tiny_i2c_chip.mod

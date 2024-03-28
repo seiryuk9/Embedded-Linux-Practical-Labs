@@ -1,0 +1,1 @@
+cmd_/home/phuongdnguyen/data/linux_driver_practical_labs/labs/dt_gpio/dt_gpio.mod := { echo  /home/phuongdnguyen/data/linux_driver_practical_labs/labs/dt_gpio/dt_gpio.o;  echo; } > /home/phuongdnguyen/data/linux_driver_practical_labs/labs/dt_gpio/dt_gpio.mod

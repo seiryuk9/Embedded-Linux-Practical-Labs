@@ -1,0 +1,1 @@
+cmd_/home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/Module.symvers := sed 's/\.ko$$/\.o/' /home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/modules.order | scripts/mod/modpost     -o /home/phuongdnguyen/data/linux_driver_practical_labs/labs/i2c/Module.symvers -e -i Module.symvers   -T -
